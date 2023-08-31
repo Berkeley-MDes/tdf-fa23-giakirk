@@ -28,8 +28,9 @@ And the plugin [grasshopper] and its intuitive way...
 I could see how this will be or already is being used to create architectures, products, and designs that are sustainability-focused. With the climate becoming extreme, there are already research and ongoing projects that utilize all of the software I used this week to [conceptual structural design for assessing the embodied environmental impact](https://www.mdpi.com/2071-1050/15/15/11990).
 
 ## Images & Videos
-![Laser Cuting](Untitled design.png)
+### Final Product
 ![laser cutting](horizontal_phone.png "Laser Cutting")
+![laser cutting](vertical_phone.png "Laser Cutting")
 
 
 ## Sketches, Drawings and Diagrams
