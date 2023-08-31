@@ -36,9 +36,13 @@ I could see how this will be or already is being used to create architectures, p
 ### Final Product
 ![laser cutting](horizontal_phone.png "Laser Cutting")
 ![laser cutting](vertical_phone.png "Laser Cutting")
+![laser cut pattern](laser_cut_pattern.png "Laser Cut Pattern")
 
 
 ## Sketches, Drawings and Diagrams
 I think what I would change about this if I had more time is the decreasing material thickness from 6mm to 5mm since my phone stand is still slightly loose when assembled together.
 
 I made this iteration sketch so that there's more gap for phones with big cases like mine. A bigger gap where the phone sits will also make it easier to adjust different angles.
+
+![laser cutting iteration](iteration.png "Laser Cutting iteration")
+
