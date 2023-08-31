@@ -28,10 +28,17 @@ And the plugin [grasshopper] and its intuitive way...
 I could see how this will be or already is being used to create architectures, products, and designs that are sustainability-focused. With the climate becoming extreme, there are already research and ongoing projects that utilize all of the software I used this week to [conceptual structural design for assessing the embodied environmental impact](https://www.mdpi.com/2071-1050/15/15/11990).
 
 ## Images & Videos
+
+1. Adjusted prism depth to get rid of the stop on top so that the phone can be vertical. 
+2. After talking to my peers who have printed their phone stand mode, I heard that their phone stand was a bit wonky and unstable when assambled together. As a result, I measured the material's thickness which was 0.210in. Then convert that to 5-6 millimeters to enter in rhino (since its metric system uses mm).
+3. Entered 6 millimeters for the "materials thickness"
+
 ### Final Product
 ![laser cutting](horizontal_phone.png "Laser Cutting")
 ![laser cutting](vertical_phone.png "Laser Cutting")
 
 
 ## Sketches, Drawings and Diagrams
-![alt text](image.jpg)
+I think what I would change about this if I had more time is the decreasing material thickness from 6mm to 5mm since my phone stand is still slightly loose when assembled together.
+
+I made this iteration sketch so that there's more gap for phones with big cases like mine. A bigger gap where the phone sits will also make it easier to adjust different angles.
