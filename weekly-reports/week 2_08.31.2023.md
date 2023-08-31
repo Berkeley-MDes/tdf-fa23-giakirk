@@ -27,6 +27,8 @@ And the plugin [grasshopper] and its intuitive way...
 
 I could see how this will be or already is being used to create architectures, products, and designs that are sustainability-focused. With the climate becoming extreme, there are already research and ongoing projects that utilize all of the software I used this week to [conceptual structural design for assessing the embodied environmental impact](https://www.mdpi.com/2071-1050/15/15/11990).
 
+- In regard to laser cutting, I suspect maybe we'll use more bamboo in laser cutting for sustainability.
+
 ## 💻 Images & Videos
 
 1. Adjusted prism depth to get rid of the stop on top so that the phone can be vertical. 
