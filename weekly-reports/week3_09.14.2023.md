@@ -9,7 +9,7 @@
 
 
 ## Ideate/sketching
-- My need was to create a multifunctional phone stand--would either be versatile enough for various devices to fit or can hold multiple devices at once.
+- My need was to create a multifunctional phone stand--would either be versatile enough for various devices to fit or hold multiple devices at once.
 - I started doing some sketches for my needs to create a personalized stand that can hold a phone and an iPad.
 
 Here are some of the sketches: 
@@ -60,7 +60,7 @@ Ok so now that I did all of the above…I was still confused LOL. But I started 
 
 
 ## :clapper: Capturing the process: 
-- [Click here to watch the video](https://www.youtube.com/watch?v=Cud05hI7ZTU)
+- [Click here to watch the video](https://www.youtube.com/watch?v=Cud05hI7ZTU&t=1s)
 
 
 ## THE RESULT:
@@ -69,11 +69,11 @@ Ok so now that I did all of the above…I was still confused LOL. But I started 
 <img alt="ipad2" src="ipad2.png">
 
 ## Reflection and challenges:
-- Overall, it was a smi-intense project in trying to using Grasshopper and Rhino but very enjoyable.
-- A few things I stuggled with were 1)creating something from scratch in Grasshopper, 2)replicate the model to look like what I envisioned initally in my sketches.
-- Through this project, I understood the many ways to use Rhino and Grasshopper more. I see the useful and benefits of generative design more and I hope to continue doing more projects in Rhino and Grasshopper.
+- Overall, it was a semi-intense project in trying to use Grasshopper and Rhino but very enjoyable.
+- A few things I struggled with were 1)creating something from scratch in Grasshopper, 2) replicating the model to look like what I initially envisioned in my sketches.
+- Through this project, I understood the many ways to use Rhino and Grasshopper more. I see the usefulness and benefits of generative design more and I hope to continue doing more projects in Rhino and Grasshopper.
 
 ## Speculation:
-- I see generative design is already and will continue to expand even more. I see so many ways generative design can be used besides from just the architectural discipline.
-- I was inspired by [Cody Glen's project](https://www.codyglen.com/) on how he utilized generative design to reuse old/thrown away wooden materials to create something new. I'm very interested in seeing how this way of design--generating a way to solve waste or turn it into something new--growing in the future. I'm also very curious in learning how I would be able do a similar project like Cody's.
+- I see generative design is already and will continue to expand even more. I see so many ways generative design can be used besides just the architectural discipline.
+- I was inspired by [Cody Glen's project](https://www.codyglen.com/) on how he utilized generative design to reuse old/thrown-away wooden materials to create something new. I'm very interested in seeing how this way of design--generating a way to solve waste or turn it into something new--grows in the future. I'm also very curious to learn how I would be able to do a similar project like Cody's.
 
