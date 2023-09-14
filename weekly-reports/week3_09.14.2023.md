@@ -1,6 +1,6 @@
-Computational Design: Learning Grasshopper in 5 Days and I Got a Phone Case??!!
+# Computational Design: Learning Grasshopper in 5 Days and I Got a Phone Case??!!
 
-Goals:
+## Goals:
 - Personalization: Modify the baseline grasshopper+rhino file to include my own geometric design.
 - Must demonstrate an understanding of how to rewire the grasshopper [file] to meet these requirements. 
 - Consider the various grasshopper operations involved in a procedural, generative model (boolean operations, subtractions, offsets, etc). The result will be a custom design system.
@@ -8,13 +8,13 @@ Goals:
 
 
 
-Ideate/sketching:
+## Ideate/sketching:
 		○ My need was to create a multifunctional phone stand--would either be versatile enough for various devices to fit or can hold multiple devices at once.
 		○ I started doing some sketches for my needs to create a personalized stand that can hold a phone and an iPad. Here are some of the sketches: 
 	
 	
 
-Exploring the tools
+## Exploring the tools
 	- Since I wasn't at all familiar with Rhino or Grasshopper five days ago yet. I asked for advice on how to get started and received this feedback:
 	1. Replicate rhino 3D geometry with some parametric
 	2. Import 3d model directly into Grasshopper
@@ -44,18 +44,18 @@ I began doing some exercises to familiarize myself with the Rhino interface, mod
 		○ Insert picture 
 
 
-Putting it all together!
+## Putting it all together!
 
 Ok so now that I did all of the above…I was still confused LOL. But I started modeling from Grasshopper this time instead of modeling in Rhino first. And what I ended up getting in Grasshopper is shown below:
 - Insert picture
 - Of course, there were a lot of iterations and changes to get here but I won't show you all that mess. But the 3 things I want to show in this model are its ability to hold a phone or an iPad. There's a cross on the phone holder (which you can see in the end result pic). The gap in the x-direction is smaller than the gap in the z-direction. This will allow the phone to either stand vertically when placed in the x-direction gap or slant upward when the phone is placed in the z-direction.
 
 
-The Video:
+## Capturing the process:
 - Insert video
 
 
-THE RESULT:
+## THE RESULT:
 - Here's the final product
   
 
