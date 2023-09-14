@@ -60,7 +60,7 @@ Ok so now that I did all of the above…I was still confused LOL. But I started 
 
 
 ## :clapper: Capturing the process: 
-- [Click here to watch the video]()
+- [Click here to watch the video](https://www.youtube.com/watch?v=yyOVPC5uRGw)
 
 
 ## THE RESULT:
