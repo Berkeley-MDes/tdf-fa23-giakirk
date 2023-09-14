@@ -60,12 +60,13 @@ Ok so now that I did all of the above…I was still confused LOL. But I started 
 
 
 ## :clapper: Capturing the process: 
-- [Click here to watch the video](https://www.youtube.com/watch?v=yyOVPC5uRGw)
+- [Click here to watch the video](https://www.youtube.com/watch?v=Cud05hI7ZTU)
 
 
 ## THE RESULT:
-- Here's the final product (currently being printed so come back later)!
-<img alt="printing" src="printing.png">
+- Here's the final product...
+<img alt="ipad1" src="ipad1.png">
+<img alt="ipad2" src="ipad2.png">
 
 ## Reflection and challenges:
 - Overall, it was a smi-intense project in trying to using Grasshopper and Rhino but very enjoyable.
