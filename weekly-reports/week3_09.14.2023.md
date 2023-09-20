@@ -15,13 +15,17 @@
 Here are some of the sketches: 
 
 <img alt="sketches." src="Sketches.png">	
-	
+
+ I decided to go with this final sketch:
+
+ <img alt="storyboard" src="storyboard.png">	
+
 
 ## Exploring the tools
 
 Since I wasn't at all familiar with Rhino or Grasshopper five days ago yet. I asked for advice on how to get started and received this feedback:
 1. Replicate rhino 3D geometry with some parametric
-2. Import 3d model directly into Grasshopper
+2. Import 3D model directly into Grasshopper
 3. Go into the simplified phone stand and try to replace the geometry
 
 
@@ -56,21 +60,21 @@ On the left is a picture of the before I replace the geometry and on the right i
 Ok so now that I did all of the above…I was still confused LOL. But I started modeling from Grasshopper this time instead of modeling in Rhino first. And what I ended up getting in Grasshopper is shown below:
 <img alt="gia_phone_stand" src="gia_phone_stand.png">
 
-- Of course, there were a lot of iterations and changes to get here but I won't show you all that mess. But the 3 things I want to show in this model are its ability to hold a phone or an iPad. There's a cross on the phone holder (which you can see in the end result pic). The gap in the x-direction is smaller than the gap in the z-direction. This will allow the phone to either stand vertically when placed in the x-direction gap or slant upward when the phone is placed in the z-direction.
+- Of course, there were a lot of iterations and changes to get here but I won't show you all that mess. But the 3 things I want to show in this model are its ability to hold a phone or an iPad. There's a cross on the phone holder (which you can see in the end result pic). The gap in the x-direction is smaller than the gap in the z-direction. This will allow the phone to either stand vertically when placed in the x-direction gap or slant upward when placed in the z-direction.
 
 
 ## :clapper: Capturing the process: 
-- [Click here to watch the video](https://www.youtube.com/watch?v=Cud05hI7ZTU&t=1s)
+- [Click here to watch the video](https://studio.youtube.com/video/DPourzR-N2M/edit)
 
 
 ## THE RESULT:
 - Here's the final product...
-<img alt="ipad1" src="ipad1.png">
-<img alt="ipad2" src="ipad2.png">
+
+<img alt="ipad3" src="ipad3.JPG">
 
 ## Reflection and challenges:
 - Overall, it was a semi-intense project in trying to use Grasshopper and Rhino but very enjoyable.
-- A few things I struggled with were 1)creating something from scratch in Grasshopper, 2) replicating the model to look like what I initially envisioned in my sketches.
+- A few things I struggled with were 1)creating something from scratch in Grasshopper, and 2) replicating the model to look like what I initially envisioned in my sketches.
 - Through this project, I understood the many ways to use Rhino and Grasshopper more. I see the usefulness and benefits of generative design more and I hope to continue doing more projects in Rhino and Grasshopper.
 
 ## Speculation:
