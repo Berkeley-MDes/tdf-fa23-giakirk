@@ -2,7 +2,7 @@
 # Report 1 (Week 2 of 08.31.2023) :bowtie:
 
 
-## 💭 Refelections
+## 💭 Reflections
 
 - This week, I learned how to operate Rhino and Grasshopper on a beginner level.
   
