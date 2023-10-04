@@ -1,4 +1,4 @@
-# Report 7 (Week 7 of 09/28- 10/5) :bowtie:https://github.com/Berkeley-MDes/tdf-fa23-giakirk/tree/main/weekly-reports/weekly-reports/weekly-reports/weekly-reports
+# Report 7 (Week 7 of 09/28- 10/5)
 
 
 ## 💭 Topic
