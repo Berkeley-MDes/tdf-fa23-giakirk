@@ -9,6 +9,12 @@
 
 
 ## 💻 Images & Videos of Me sketching a lot for Studio Foundation
+<img alt="studiofoundation1" src="studiofoundation1.png">	
+<img alt="studiofoundation2" src="studiofoundation2.png">	
+<img alt="studiofoundation3" src="studiofoundation3.png">	
+<img alt="studiofoundation4" src="studiofoundation4.png">	
+
+
 
 
 
