@@ -1,4 +1,4 @@
-# Report 6 (Week 7 of 09/28- 10/5)
+# Report 6 (Week 7 of 09/21 - 9/28)
 
 ## 💭 Topic
 
