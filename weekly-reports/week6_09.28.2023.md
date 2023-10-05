@@ -6,12 +6,8 @@
 - I was trying to understand what would be a locative media for an assignment that I was working on so I did some research and readings.
 
 
-## 🔎 Setting a Board Objective:
-- 
+## Chosen Locatie Media:
+- The locative media I chose to examine is the "San Francisco Poop Map".
 
-
-## Observation and Questioning:
-- 
-
-## Observation and research-ish:
-- 
+## More info:
+- The presentation can be found here: https://docs.google.com/presentation/d/1t5neIlmCpnZi8IkwKcZcDcMKeWmm33gi7dPWHpJ05eA/edit?usp=sharing
