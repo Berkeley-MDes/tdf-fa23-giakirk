@@ -1,5 +1,5 @@
 
-# Report 1 (Week 2 of 08.31.2023) :bowtie:
+# Report 1 Computational Design (Week 2 of 08.31.2023) :bowtie:
 
 
 ## 💭 Reflections
